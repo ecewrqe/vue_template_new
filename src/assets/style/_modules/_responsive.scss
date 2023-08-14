@@ -1,0 +1,12 @@
+@include media-breakpoint-up(lg) {
+	.page-header {
+		padding: 0 $header-inner-padding-x;
+	}
+	.page-content {
+		padding: 1.5rem 2rem;
+
+		.panel {
+			margin-bottom: 1.5rem;
+		}
+	}
+}
