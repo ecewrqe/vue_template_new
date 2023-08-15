@@ -1,5 +1,7 @@
 # vue-template-new
 
+A vue2 developmental environment
+
 packaged:
 vue2.x, bootstrap5, typescript, tools,
 some configs and plugins
