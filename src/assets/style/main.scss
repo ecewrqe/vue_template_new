@@ -19,6 +19,14 @@
 
 
 @import "../../../node_modules/bootstrap/scss/utilities";
+$webfontsURL: "../plugins/webfonts/nextgen-fonts-master";
+$fa-font-path: "../plugins/webfonts/fontawesome-pro-master/webfonts";
+@import '..//plugins/webfonts/fontawesome-pro-master/scss/fontawesome.scss';
+@import '..//plugins/webfonts/fontawesome-pro-master/scss/fa-light.scss';
+@import '..//plugins/webfonts/fontawesome-pro-master/scss/fa-brands.scss';
+@import '..//plugins/webfonts/fontawesome-pro-master/scss/fa-solid.scss';
+@import '..//plugins/webfonts/fontawesome-pro-master/scss/fa-regular.scss';
+@import '..//plugins/webfonts/nextgen-fonts-master/scss/ng-icons.scss';
 
 // Layout & components
 @import "../../../node_modules/bootstrap/scss/root";
@@ -58,6 +66,12 @@
 
 // Utilities
 @import "../../../node_modules/bootstrap/scss/utilities/api";
+
+/* #WEBFONT ICONS IMPORTS
+========================================================================== */
+
+
+// @import '..//plugins/webfonts/nextgen-fonts-master/scss/ng-icons.scss';
 
 
 $custom-control-gutter:.5rem;

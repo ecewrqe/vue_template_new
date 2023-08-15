@@ -1,6 +1,9 @@
 # vue-template-new
 
-vue2.x, bootstrap5, typescript, tools
+packaged:
+vue2.x, bootstrap5, typescript, tools,
+some configs and plugins
+fontawesome config free score
 
 ## Project setup
 
